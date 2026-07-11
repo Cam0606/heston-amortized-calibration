@@ -217,3 +217,11 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 .venv/
+data/raw/
+data/processed/
+data/synth/
+checkpoints/
+data/raw/
+data/processed/
+data/raw/
+data/processed/
